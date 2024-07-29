@@ -1,6 +1,6 @@
 # WebCrawler
 
-This web crawler is built using Node.js, following a comprehensive tutorial from Boot.dev. It is designed to efficiently traverse and scrape web pages, extracting useful information with ease. The project showcases key Node.js features and web scraping techniques, making it an excellent resource for developers looking to understand the fundamentals of web crawling. Whether you're new to web scraping or looking to enhance your skills, this project provides a solid foundation and a practical example of implementing a web crawler from scratch.
+I developed a web crawler using Node.js, jsdom, and Playwright, following a Boot.dev tutorial. This project enhanced my web scraping skills, including data extraction, handling concurrent requests, and robust error management. I also improved my proficiency in Node.js, HTML parsing with jsdom, and browser automation with Playwright, applying modular design principles for a maintainable codebase.
 
 ## Table of Contents
 
