@@ -1,5 +1,4 @@
 const { crawlMyPage } = require("./crawler");
-// https://wagslane.dev
 
 async function main() {
   if (process.argv.length < 3) {
