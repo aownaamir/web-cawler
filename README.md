@@ -37,9 +37,9 @@ This web crawler is built using Node.js, following a comprehensive tutorial from
 - **Playwright Integration:** Acquired knowledge on using Playwright for browser automation, including handling dynamic content and simulating user interactions.
 - **Data Extraction Techniques:** Learned methods for extracting specific pieces of information from web pages, such as text, links, and images.
 
-## ScreenShots
+## ScreenShot
 
-Here are some screenshots of the web crawler application:
+Here's screenshot of the result of web crawler application:
 ![image](image.png)
 
 ## Installation
